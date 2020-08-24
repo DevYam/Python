@@ -1,0 +1,4 @@
+This is a simple text file
+written to demonstrate the
+working of seek and tell
+functions in python

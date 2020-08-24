@@ -1,0 +1,6 @@
+f = open("seekandtell.txt")
+print(f.tell())
+print(f.readline())
+print(f.tell())
+print(f.readlines())
+print(f.tell())
