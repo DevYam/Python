@@ -6,6 +6,6 @@
 
 
 #   Handle read and write both
-f = open("divyam.txt", "r+")
+f = open("divyam.txt", "x+")
 print(f.read())
 f.write("Thank you")
